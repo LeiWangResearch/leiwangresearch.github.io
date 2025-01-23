@@ -19,13 +19,13 @@ nav: true
 
 ### Working Papers
 1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review) 
-1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under preparation for the third round review)
-1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author) The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under preparation for the second round review)
-1. **Wang, L.**, Huang, L., Gopal, R. From Exposure to Expression: The Influence of NSFW Content on User Interaction Dynamics in Generative AI and its Implications for Moderation (To be submitted)
+1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the third round review)
+1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author) The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the second round review)
+1. Lee, B.,  **Wang, L.** (Co-First Author) How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Under the first round review)
+1. **Wang, L.**, Huang, L., Gopal, R. Navigating Risks and Creativity: The Impact of NSFW Content on User Behavior and Governance on Generative AI Platforms (To be submitted)
 <br>
 
 ### Work-in-Progress
-1. Free No More: The Impact of Free Trial Termination on User Engagement in Generative AI Platforms (with Lee, B.)
 1. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
 1. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
 1. Utilizing Gamification Designs to Enhance Student Engagement in Co-Curricular Activities (with Zhang, Y., Jackson, J., Phillips, R.)
