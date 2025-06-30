@@ -10,9 +10,9 @@ nav: true
 Smeal Small Research Award, Penn State, 2017 <br>
 INFORMS ISS Nunamaker-Chen Dissertation Award, 2015 <br>
 Smeal Small Research Award, Penn State, 2014 <br>
-OPIM Outstanding PhD Student Scholar Award, UConn, 2013<br>
-OPIM Outstanding PhD Student Scholar Award, UConn, 2012<br>
-OPIM Outstanding PhD Student Teaching Award, UConn, 2012<br>
+OPIM Outstanding PhD Student Scholar Award, UConn, 2013 <br>
+OPIM Outstanding PhD Student Scholar Award, UConn, 2012 <br>
+OPIM Outstanding PhD Student Teaching Award, UConn, 2012 <br>
 Doctoral Dissertation Fellowship, UConn, 2012<br>
 
 
