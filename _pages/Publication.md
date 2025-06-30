@@ -6,6 +6,7 @@ description:
 nav: true
 ---
 
+
 ### Journal Publications
 1. **Wang, L.**, Zhang, Y., Ho, Y. (2025). Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. Accepted. ***Information Systems Research***
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author). (2025). The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Conditional Accepted. ***Information Systems Research***
