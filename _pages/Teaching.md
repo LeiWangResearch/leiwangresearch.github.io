@@ -7,6 +7,7 @@ nav: true
 ### David Eccles School of Business, University of Utah
 **IS 3060, Introduction to Information Systems**<br>
 Spring 2025 (3 sections: in-person) <br>
+<br>
 
 ### Smeal College of Business, Pennsylvania State University
 **MIS 301, Business Analytics**<br>
