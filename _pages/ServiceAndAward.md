@@ -21,6 +21,7 @@ Associate Editor, Decision Support Systems, 2023-Present <br>
 
 ### Conference Committee, Session Chair, and Discussant
 **International Conference on Information Systems (ICIS)**  <br>
+Associate Editor, 2025 <br>
 Associate Editor, 2024 <br>
 Associate Editor, 2023 <br>
 Associate Editor, 2022 <br>
@@ -29,6 +30,7 @@ Associate Editor, 2020 <br>
 Associate Editor, 2019 <br>
   
 **Conference on Information Systems and Technology (CIST)**  <br>
+Program Committee Member, 2025 <br>
 Program Committee Member, 2024 <br>
 Program Committee Member, 2023 <br>
 Program Committee Member, 2022 <br>
@@ -52,6 +54,7 @@ Program Committee Member, 2017 <br>
 Program Committee Member, 2016 <br>
   
 **China Summer Workshop on Information Management (CSWIM)**  <br>
+Program Committee Member, 2025 <br>
 Program Committee Member, 2024 <br>
 Program Committee Member, 2021 <br>
 Program Committee Member, 2020 <br>
@@ -63,6 +66,7 @@ Program Committee Member, 2015 <br>
 Discussant, 2015 <br>
   
 **INFORMS Annual Meeting**  <br>
+Session Chair, 2025 <br>
 Session Chair, 2024 <br>
 Session Chair, 2020 <br>
 Session Chair, 2016 <br>
@@ -90,8 +94,8 @@ Information Systems Frontiers <br>
 
  
 ### Conference Reviewer
-Conference on Information Systems and Technology (CIST)，2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 <br>
-International Conference on Information Systems (ICIS)，2012, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 <br>
+Conference on Information Systems and Technology (CIST)，2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 <br>
+International Conference on Information Systems (ICIS)，2012, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 <br>
 Workshop on Information Technology and Systems (WITS)， 2013, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 <br>
 Hawaii International Conference on System Sciences (HICSS)， 2014, 15, 16, 22, 23 <br>
 
