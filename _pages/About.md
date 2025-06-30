@@ -14,9 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Department of Operations and Information Systems<br>
-David Eccles School of Business<br>
-University of Utah, Salt Lake City<br>
+Department of Operations and Decision Technologies<br>
+Kelley School of Business<br>
+Indiana University, Bloomington<br>
 <!--Office: 426 Business Building<br> -->
 <!--  Phone: (814) 867-5838<br> -->
 Email: lei.michelle.wang@gmail.com<br>
