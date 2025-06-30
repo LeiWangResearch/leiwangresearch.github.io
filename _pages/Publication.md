@@ -7,6 +7,8 @@ nav: true
 ---
 
 ### Journal Publications
+1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. 2025. Accepted. ***Information Systems Research***
+1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author) The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. 2025. Conditional Accepted. ***Information Systems Research***
 1. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). ***Journal of the Association for Information Systems***, 25(2), 267-303.
 1. Zhao, X., Huang, L., **Wang, L.**, Yazdani, E., Zhang, C. (2023). [Understanding of the dynamics of mobile reading: An HMM model of user engagement and content consumption](https://doi.org/10.1111/poms.13964). ***Production and Operations Management***. Forthcoming. [Corresponding author], [[Research News](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)], [UTD24, FT50]
 1. Ho, Y., Liu, S., **Wang, L.** (Listed Alphabetically) (2023). [Fun Shopping: A Randomized Field Experiment on Gamification](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2022.1147). ***Information Systems Research***, 34(2), 766-785.  [UTD24, FT50]
@@ -18,24 +20,23 @@ nav: true
 <br>
 
 ### Working Papers
-1. **Wang, L.**, Zhang, Y., Ho, Y. Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. (Under preparation for the third round review) 
+
 1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the third round review)
-1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author) The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work (Under the second round review)
-1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Under the first round review)
+1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Prepare for the second round review)
 1. **Wang, L.**, Huang, L., Gopal, R. Navigating Risks and Creativity: The Impact of NSFW Content on User Behavior and Governance on Generative AI Platforms (To be submitted)
 <br>
 
 ### Work-in-Progress
 1. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
 1. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
-1. Utilizing Gamification Designs to Enhance Student Engagement in Co-Curricular Activities (with Zhang, Y., Jackson, J., Phillips, R.)
 1. Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
-1. From Casual Strollers to Hardcore Sprinters: The Marathon of Game Engagement on Steam (with Zhang, Y.)
 1. Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
 <br>
 
 
 ### Conference Papers and Presentations
+1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Biz AI Conference, March 2025.
+1. **Wang, L.**, Huang, L. and Gopal, R. The Influence of NSFW Content on User Interaction Dynamics in Generative AI and Its Implications for Content Moderation. Conference on Information Systems and Technology (CIST), October 2024.
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Wharton’s AI and the Future of Work conference, May 2024.
 1. **Wang, L.**, Huang, L., Gopal, R. Understanding the NSFW Conundrum in Generative AI: How It Affects User Responses and Moderation Tactics. Biz AI Conference: AI Applications in Business Research, March 3024.
 1. **Wang, L.**, Zhang, Y., Ho, Y. Game for Brainstorm: The Impact of a Badge System on Knowledge Sharing. Conference on Information Systems and Technology (CIST), October 2023.
