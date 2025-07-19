@@ -9,6 +9,7 @@ nav: true
 
 ### Journal Publications
 1. **Wang, L.**, Zhang, Y., Ho, Y. (2025). Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing. Accepted. ***Information Systems Research***
+1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments. Accepted. ***Information Systems Research***
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author). (2025). The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Conditional Accepted. ***Information Systems Research***
 1. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). ***Journal of the Association for Information Systems***, 25(2), 267-303.
 1. Zhao, X., Huang, L., **Wang, L.**, Yazdani, E., Zhang, C. (2023). [Understanding of the dynamics of mobile reading: An HMM model of user engagement and content consumption](https://doi.org/10.1111/poms.13964). ***Production and Operations Management***. Forthcoming. [Corresponding author], [[Research News](https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-research-reveals-factors-affect-mobile-reader/)], [UTD24, FT50]
@@ -22,7 +23,6 @@ nav: true
 
 ### Working Papers
 
-1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments (Under the third round review)
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Prepare for the second round review)
 1. **Wang, L.**, Huang, L., Gopal, R. Navigating Risks and Creativity: The Impact of NSFW Content on User Behavior and Governance on Generative AI Platforms (To be submitted)
 <br>
