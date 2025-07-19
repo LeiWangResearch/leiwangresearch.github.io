@@ -42,6 +42,7 @@ Program Committee Member, 2015 <br>
 Program Committee Member, 2014 <br>
   
 **Workshop on Information Technology and Systems (WITS)**  <br>
+Program Committee Member, 2025 <br>
 Program Committee Member, 2024 <br>
 Conference Co-Chair, 2023 <br>
 Program Committee Member, 2023 <br>
