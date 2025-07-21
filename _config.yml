@@ -78,8 +78,8 @@ panelbear_analytics:  # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Lei Wang  # your blog must have a name for it to show up in the nav bar
-blog_description: Research and updates from Business Professor Lei Wang
+# blog_name: Lei Wang  # your blog must have a name for it to show up in the nav bar
+# blog_description: Research and updates from Business Professor Lei Wang
 # permalink: /blog/:year/:title/
 
 # Pagination
