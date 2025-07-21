@@ -8,7 +8,7 @@ middle_name:
 last_name: Wang
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Lei Wang, Business Professor, IU Kelley
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -31,7 +31,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
 
 # Dimensions
 max_width: 1000px
@@ -157,7 +157,7 @@ defaults:
   - scope:
       path:            "assets/**/*.*"
     values:
-      sitemap:         false
+      sitemap:         true
 
 # Extras
 github: [metadata]
