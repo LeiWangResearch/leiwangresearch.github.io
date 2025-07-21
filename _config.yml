@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lei Wang
+title: Lei Wang | Generative AI, Digital Platforms, Human-AI Interaction
 first_name: Lei
 middle_name: 
 last_name: Wang
@@ -42,7 +42,7 @@ max_width: 1000px
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -78,8 +78,8 @@ panelbear_analytics:  # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Lei Wang  # your blog must have a name for it to show up in the nav bar
-# blog_description: Lei Wang's personal website
+blog_name: Lei Wang  # your blog must have a name for it to show up in the nav bar
+blog_description: Research and updates from Business Professor Lei Wang
 # permalink: /blog/:year/:title/
 
 # Pagination
@@ -142,7 +142,7 @@ plugins:
   # - jekyll-archives
   # - jekyll-diagrams
   # - jekyll-email-protect
-  # - jekyll-feed
+  - jekyll-feed
   # - jekyll-github-metadata
   # - jekyll-paginate-v2
   - jekyll-responsive-image
