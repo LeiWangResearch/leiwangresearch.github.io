@@ -25,6 +25,7 @@ nav: true
 
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Prepare for the second round review)
 1. **Wang, L.**, Huang, L., Gopal, R. Navigating Risks and Creativity: The Impact of NSFW Content on User Behavior and Governance on Generative AI Platforms (To be submitted)
+1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce (To be submitted)
 <br>
 
 ### Work-in-Progress
