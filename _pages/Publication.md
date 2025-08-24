@@ -8,7 +8,7 @@ nav: true
 
 
 ### Journal Publications
-1. **Wang, L.**, Zhang, Y., Ho, Y. (2025). [Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing](https://pubsonline-informs-org.proxyiub.uits.iu.edu/doi/10.1287/isre.2023.0091). Articles in Advance. ***Information Systems Research*** [UTD24, FT50]
+1. **Wang, L.**, Zhang, Y., Ho, Y. (2025). [Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing](https://pubsonline-informs-org./doi/10.1287/isre.2023.0091). Articles in Advance. ***Information Systems Research*** [UTD24, FT50]
 1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. (2025). AI-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments. Accepted. ***Information Systems Research*** [UTD24, FT50]
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author). (2025). The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Accepted. ***Information Systems Research*** [UTD24, FT50]
 1. Shankar, R., **Wang, L.**, Gunasti, K., Li, H. (2024). [Nonverbal Peer Feedback and User Contribution in Online Forums: Experimental Evidence of the Role of Attribution and Emotions](https://aisel.aisnet.org/jais/vol25/iss2/7/). ***Journal of the Association for Information Systems***, 25(2), 267-303.
