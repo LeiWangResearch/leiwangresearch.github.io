@@ -24,13 +24,12 @@ nav: true
 ### Working Papers
 
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Prepare for the second round review)
-1. **Wang, L.**, Huang, L., Gopal, R. Navigating Risks and Creativity: The Impact of NSFW Content on User Behavior and Governance on Generative AI Platforms (To be submitted)
+1. **Wang, L.**, Huang, L., Gopal, R. From Slip to Spiral: Behavioral Implications of Boundary-Pushing AI-Generated Content for Platform Governance (To be submitted)
 1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce (To be submitted)
 <br>
 
 ### Work-in-Progress
 1. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
-1. Where and When They Come From Matters: Exploring Drivers of Customer Purchases in Live Streaming (with Tian, J., Lin, Q., Jia, N.)
 1. Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
 1. Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
 <br>
