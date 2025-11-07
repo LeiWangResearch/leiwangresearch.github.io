@@ -24,8 +24,8 @@ nav: true
 
 ### Working Papers
 
-1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Prepare for the second round review)
-1. **Wang, L.**, Huang, L., Gopal, R. From Slip to Spiral: Behavioral Implications of Boundary-Pushing AI-Generated Content for Platform Governance (To be submitted)
+1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Under the second round review)
+1. **Wang, L.**, Huang, L., Gopal, R. Exposure-Driven Behavior Risk in Generative AI: A Framework for Adaptive Behavior-Aware Governance (Under the first round review)
 1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce (To be submitted)
 <br>
 
@@ -37,6 +37,7 @@ nav: true
 
 
 ### Conference Papers and Presentations
+1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Conference on Information Systems and Technology (CIST), October 2025.
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Biz AI Conference, March 2025.
 1. **Wang, L.**, Huang, L. and Gopal, R. The Influence of NSFW Content on User Interaction Dynamics in Generative AI and Its Implications for Content Moderation. Conference on Information Systems and Technology (CIST), October 2024.
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work. Wharton’s AI and the Future of Work conference, May 2024.
