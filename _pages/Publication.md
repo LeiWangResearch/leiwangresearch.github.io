@@ -37,6 +37,7 @@ nav: true
 
 
 ### Conference Papers and Presentations
+1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce. INFORMS Annual Meeting, Atlanta, October 2025.
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Conference on Information Systems and Technology (CIST), October 2025.
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Biz AI Conference, March 2025.
 1. **Wang, L.**, Huang, L. and Gopal, R. The Influence of NSFW Content on User Interaction Dynamics in Generative AI and Its Implications for Content Moderation. Conference on Information Systems and Technology (CIST), October 2024.
