@@ -30,7 +30,6 @@ nav: true
 <br>
 
 ### Work-in-Progress
-1. From Parrots to Picassos: Community-Driven Learning of Generative AI Prompt Skills (with Huang, L.)
 1. Unveiling the Eco-Friendly Future of Agriculture: The Role of IT in Enlightening Underprivileged group in Rural China (with Yu, S.)
 1. Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
 <br>
