@@ -30,12 +30,15 @@ nav: true
 <br>
 
 ### Work-in-Progress
+1. When Empathy Meets Efficiency: How Compassionate AI Coworkers Support Emotional Regulation and Performance in Customer Service (with Min, H., Saha, K., and Das Swain, V.)
+1. Imitation, Experimentation, and Mastery: Unpacking Learning Strategies in Generative AI Communities (with Dennis, A. R. and Kan, Y.)
 1. Who Says It and How They Say It: Field Evidence from a Digital Nudging Experiment on Sustainable Farming (with Liu, Y., Yang, S, and Yu, S.)
-1. Freemium and Beyond: Optimal Quantity Analysis for Free Sample in Digital Products (with Huang, L., Zhao, X., Zhang, C.)
 <br>
 
 
 ### Conference Papers and Presentations
+1. **Wang, L.**, Huang, L. and Gopal, R. From Slip to Spiral: Behavioral Implications of Boundary-Pushing AI-Generated Content for Platform Governance. Workshop on Information Technology and Systems (WITS), Nashville, December 2025. 
+1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce. International Conference on Information Systems (ICIS), Nashville, December 2025.
 1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce. INFORMS Annual Meeting, Atlanta, October 2025.
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Conference on Information Systems and Technology (CIST), October 2025.
 1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Biz AI Conference, March 2025.
