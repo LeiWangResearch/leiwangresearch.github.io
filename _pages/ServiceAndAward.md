@@ -7,6 +7,7 @@ nav: true
 
 
 ### Awards and Honors
+Faculty Assistance in Data Science Fellowship, Indiana University, 2026
 Smeal Small Research Award, Penn State, 2017 <br>
 INFORMS ISS Nunamaker-Chen Dissertation Award, 2015 <br>
 Smeal Small Research Award, Penn State, 2014 <br>
