@@ -19,6 +19,7 @@ Doctoral Dissertation Fellowship, UConn, 2012<br>
 
 ### Journal Editor
 Associate Editor, Decision Support Systems, 2023-Present <br>
+Special Issue Editorial Board, Information & Management, 2025-Present <br>
 
 ### Conference Committee, Session Chair, and Discussant
 **International Conference on Information Systems (ICIS)**  <br>
