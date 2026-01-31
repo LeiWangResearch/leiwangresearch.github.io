@@ -9,6 +9,7 @@ nav: true
 
 ### Journal Publications
 
+1. **Wang, L.**, Lee, B. (2026) How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search. Conditionally Accepted. ***Information Systems Research*** [UTD24, FT50]
 1. Hou, J., **Wang, L.**, Wang, G., Wang, J., Yang, S. (Co-First Author). (2025). [The Double-Edged Roles of Generative AI in the Creative Process: Experiments on Design Work](https://pubsonline.informs.org/doi/10.1287/isre.2024.0937). Articles in Advance. ***Information Systems Research*** [UTD24, FT50]
 1. Liu, Y., **Wang, L.**, Yang, S., Wang, Y. (2025). [Artificial Intelligence-Powered Digital Streamers for Online Retail: Empirical Evidence and Design Strategies Through Experiments](https://pubsonline.informs.org/doi/10.1287/isre.2023.0024). Articles in Advance. ***Information Systems Research*** [UTD24, FT50]
 1. **Wang, L.**, Zhang, Y., Ho, Y. (2025). [Game of Brainstorm: The Impact of a Badge System on Knowledge Sharing](https://pubsonline.informs.org/doi/10.1287/isre.2023.0091). Articles in Advance. ***Information Systems Research*** [UTD24, FT50]
@@ -24,7 +25,7 @@ nav: true
 
 ### Working Papers
 
-1. **Wang, L.**, Lee, B. How Costs Influence Preferences for Control in Generative AI: Human-Guided vs GenAI-Based Delegated Search (Under the second round review)
+
 1. **Wang, L.**, Huang, L., Gopal, R. Exposure-Driven Behavior Risk in Generative AI: A Framework for Adaptive Behavior-Aware Governance (Under the first round review)
 1. Lin, Q., Tian, J., **Wang, L.** and Jia, N. Is Algorithm Enough? An Informational Perspective on Viewer Targeting in Live-Streaming Commerce (To be submitted)
 <br>
