@@ -4,6 +4,14 @@ title: Teaching
 permalink: /Teaching/
 nav: true
 ---
+### Kelley School of Business, Indiana University
+**BUS-S355, Digital Solutions With AI**<br>
+Spring 2026 (2 sections: in-person)<br>
+
+**BUS-S635, PhD Seminar: Generative AI and Human-AI Collaboration**<br>
+Spring 2026 (1 section: in-person)<br>
+<br>
+
 ### David Eccles School of Business, University of Utah
 **IS 3060, Introduction to Information Systems**<br>
 Spring 2025 (3 sections: in-person) <br>
