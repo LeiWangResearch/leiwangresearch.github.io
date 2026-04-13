@@ -7,6 +7,7 @@ nav: true
 
 
 ### Awards and Honors
+Kelley School of Business Research Award, Indiana University, 2026 <br>
 Faculty Assistance in Data Science Fellowship, Indiana University, 2026 <br>
 Smeal Small Research Award, Penn State, 2017 <br>
 INFORMS ISS Nunamaker-Chen Dissertation Award, 2015 <br>
